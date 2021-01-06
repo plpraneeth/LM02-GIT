@@ -1,1 +1,3 @@
 1st line in LM02-GIT
+2nd line added to branch1
+
